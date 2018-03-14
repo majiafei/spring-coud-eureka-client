@@ -4,10 +4,6 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 spring:
   application:
-<<<<<<< HEAD
     name: service-hi
 server:
-  port: 8062
-=======
-    name: service-hi
->>>>>>> branch 'dev' of https://github.com/majiafei/spring-coud-eureka-client.git
+  port: 8762
