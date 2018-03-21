@@ -5,3 +5,5 @@ eureka:
 spring:
   application:
     name: service-hi
+server:
+  port: 8762
