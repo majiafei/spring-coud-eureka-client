@@ -10,6 +10,7 @@ public class HelloController {
 	@RequestMapping("/info")
 	@ResponseBody
 	public String  hello(){
+		System.out.println("====");
 		return "hello";
 	}
 
